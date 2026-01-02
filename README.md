@@ -1,4 +1,4 @@
-Fundamentals of Programming & Python
+# Fundamentals of Programming & Python
 
 Python is interpreted (code runs line-by-line by the interpreter, no separate compilation).
 Indentation is crucial: Use spaces (usually 4) for blocks (no braces like in other languages). Wrong indentation causes IndentationError.
